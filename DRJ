@@ -1,0 +1,8 @@
+print('what is your name')
+name = input()
+print('it is good to meet you',name)
+print('THE LENGTH OF YOUR NAME IS',len(name))
+if(name == 'tufail'):
+    print('you are best')
+else:
+    print('you are chutiya')
